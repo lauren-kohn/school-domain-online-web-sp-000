@@ -16,8 +16,7 @@ class School
   end
   
   def grade(grade)
-    student_array = @roster[grade]
-    puts student_array
+    roster[grade]
   end
   
   def sort 
