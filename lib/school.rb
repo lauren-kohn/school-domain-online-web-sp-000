@@ -13,9 +13,6 @@ class School
     else
       roster[grade] = [name]
     end
-    #NEW["grade"]
-    #= []
-    #@new["grade"] << "name"
   end
   
   
